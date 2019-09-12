@@ -1,9 +1,7 @@
 
 def speak_to_grandma(phrase)
   phrase = "I LOVE YOU TOO PUMKIN!"
-  if speak_to_grandma(phrase) == "I LOVE YOU GRANDMA!"
-    puts phrase
-
+end
 
 
   
