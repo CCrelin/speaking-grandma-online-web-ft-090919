@@ -1,6 +1,6 @@
 
 def speak_to_grandma(phrase)
-  phrase = "I LOVE YOU TOO PUMKIN!"
+  phrase = "I LOVE YOU TOO PUMPKIN!"
 end
 
 
