@@ -8,8 +8,6 @@ def speak_to_grandma(phrase ="I LOVE YOU GRANDMA!")
   else phrase 
     return "NO, NOT SINCE 1938!"
   end
-  speak_to_grandma("WHAT DID YOU EAT TODAY?")
-  return ""
 end
   
 
