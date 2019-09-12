@@ -3,7 +3,9 @@ def speak_to_grandma(phrase)
   phrase = "I LOVE YOU TOO PUMPKIN!"
 end
 
-
+def speak_to_grandma(phrase)
+  phrase = "HUH?! SPEAK UP, SONNY!"
+end
   
 
 
